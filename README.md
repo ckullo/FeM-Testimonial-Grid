@@ -26,7 +26,7 @@ This is a solution to the [Testimonials grid section challenge on Frontend Mento
 ### Links
 
 - Solution URL: [](https://github.com/ckullo/FeM-Testimonial-Grid)
-- Live Site URL: [](https://your-live-site-url.com)
+- Live Site URL: []([https://your-live-site-url.com](https://ckullo.github.io/FeM-Testimonial-Grid/))
 
 ## My process
 
